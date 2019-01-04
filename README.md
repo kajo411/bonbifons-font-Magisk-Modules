@@ -1,4 +1,8 @@
-Bonbifons Font Installer
-magisk 17+
+Bonbifons Font magisk for v17++
 
-this font is still in beta
+Description
+
+This module change the system font systemlessly.
+Instructions
+
+    Install this and reboot then violaa.
