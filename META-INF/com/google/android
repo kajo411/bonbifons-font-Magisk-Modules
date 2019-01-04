@@ -151,3 +151,5 @@ rm -rf $TMPDIR
 
 ui_print "- Done"
 exit 0
+
+#MAGISK
